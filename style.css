@@ -151,9 +151,9 @@
     align-items: center;
   }
   
-  .lista-rodape li{
-    color: #FFF;
-    font-weight: 700;
+ .lista-rodape li{
+    color: #580f7a;
+    font-weight: 800;
     font-size: 18px;
     margin-bottom: 16px;
     display: flex;
