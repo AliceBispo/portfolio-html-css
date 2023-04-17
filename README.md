@@ -6,7 +6,7 @@
 ## Sobre o projeto
 Link do projeto no ar:
 
-- [link do projeto final no netlify](https://www.figma.com/file/dykEV9jRKyK7K83CQ74zfP/Portfolio-Ciclo-Formativo-II---M%C3%B3dulo-I?node-id=0%3A1)
+- [link do projeto final no netlify]([[https://www.figma.com/file/dykEV9jRKyK7K83CQ74zfP/Portfolio-Ciclo-Formativo-II---M%C3%B3dulo-I?node-id=0%3A1](https://portfolio-alice-bispo.netlify.app)](https://portfolio-alice-bispo.netlify.app))
 
 O projeto final é um portfólio feito em HTML, CSS e hospedado no netlify.
 
@@ -24,7 +24,7 @@ Link do Protótipo:
 
 ---
 <br>
-_Foi ser incrível caminharmos juntas!_
+_Foi incrível caminharmos juntas!_
 <br>
 
 ### Vamos nos conectar!
